@@ -20,6 +20,10 @@ setelah proses intalasi berhasil :
 
 Powered by UVT - https://www.facebook.com/groups/python.uvt/
 
+<<<<<<< HEAD
    ============ licenci - uvt @2012 =============
+=======
+============== licenci - uvt @2012 =============
+>>>>>>> b72a050ff1f5f9c2ba1dc6f93a842b95f0d910c6
 
 
