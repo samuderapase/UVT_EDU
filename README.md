@@ -7,19 +7,19 @@ untuk menjalankan situs ini perlu beberapa dependensi:
 
 setelah proses intalasi berhasil :
 
-* Buat project, kita disini bekerja dalam virtual :
+* Buat project, kita disini bekerja dengan virtual :
 
-1.mkdir uvt
-2.uvt$ virtualenv uvt 
-3.source uvt/bin/active
-4.pip install -r requirements.txt
-5.Pastekan project kedalam directory uvt
-6.Singkronisasi databasenya : python manage.py syncdb
-7.Jalankan server djangonya : python manage.py runserver
+* mkdir uvt
+* uvt$ virtualenv uvt 
+* source uvt/bin/active
+* pip install -r requirements.txt
+* Pastekan project kedalam directory uvt
+* Singkronisasi databasenya : python manage.py syncdb
+* Jalankan server djangonya : python manage.py runserver
 
 
 Powered by UVT - https://www.facebook.com/groups/python.uvt/
 
-    ============ licenci - uvt @2012 =============
+   ============ licenci - uvt @2012 =============
 
 
